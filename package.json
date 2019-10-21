@@ -21,7 +21,7 @@
     "@angular/pwa": "^0.8.9",
     "@angular/router": "^6.1.0",
     "@angular/service-worker": "^6.1.0",
-    "bootstrap": "4.2.1",
+    "bootstrap": "4.3.1",
     "core-js": "^2.5.4",
     "firebase": "^5.8.6",
     "ngx-bootstrap": "^3.2.0",
